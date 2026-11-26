@@ -1,3 +1,8 @@
 # Arquivos temporários
 node_modules
 dist/
+
+# xmls protegidos
+*.xml
+!exemplos/*.xml
+.env
