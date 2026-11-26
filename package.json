@@ -1,0 +1,25 @@
+{
+  "name": "nfe-analyzer",
+  "version": "1.0.0",
+  "description": "Analisador e auditor de xml - nfe em Node.js + Typescript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Medeirosfg/nfe-analyzer.git"
+  },
+  "keywords": [],
+  "author": "Felipe Medeiros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Medeirosfg/nfe-analyzer/issues"
+  },
+  "homepage": "https://github.com/Medeirosfg/nfe-analyzer#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.11",
+    "typescript": "^7.0.2"
+  }
+}
